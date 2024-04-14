@@ -3,6 +3,14 @@
 import json
 from pathlib import Path
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+
+px.set_mapbox_access_token(open("token.txt").read())
 
 # %%
 dados_df = []
@@ -18,9 +26,6 @@ for i in range(10):  # Altere o número máximo de arquivos conforme necessário
 
 # %%
 dados_df[0]['deliveries']
-# %%
-
-df_deliveries_df.head()
 
 # %%
 
@@ -67,3 +72,21 @@ deliveries_df.head()
 # %%
 deliveries_df.shape
 # %%
+
+fig = px.scatter_mapbox(deliveries_df, 
+                        lat="delivery_lat", 
+                        lon="delivery_lng",
+                        size_max=15, 
+                        zoom=8, 
+                        opacity=0.05)
+
+
+
+fig.update_layout(height=800, 
+                  mapbox=dict(center=go.layout.mapbox.Center(lat=-15.657014, lon=-47.802665)))
+fig.show()
+# %%
+deliveries_df.info()
+
+# %%
+deliveries_df.to_csv('tidy_data.csv')
