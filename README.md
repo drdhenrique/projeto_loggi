@@ -12,5 +12,7 @@ O objetivo desse projeto é então o de arrumação de dados usando Python, tran
 
 <iframe src="https://giphy.com/embed/xI5HBoQZrEDavF19LF" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xI5HBoQZrEDavF19LF">via GIPHY</a></p>
 
+ <img src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://giphy.com/embed/xI5HBoQZrEDavF19LF)"/>
+
 
 
