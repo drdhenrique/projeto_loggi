@@ -2,7 +2,7 @@
 
 A Loggi é uma empresa brasileira de logística que utiliza tecnologia para otimizar a entrega de produtos, utilizando uma abordagem data-driven.
 
-Uma de suas diversas iniciativas, disponibiliza dados de algumas grandes cidades/regiões como Rio de Janeiro e Distrito Federal <a href = 'https://github.com/loggi/loggibud'> Aqui <\a>
+Uma de suas diversas iniciativas, disponibiliza dados de algumas grandes cidades/regiões como Rio de Janeiro e Distrito Federal <a href = 'https://github.com/loggi/loggibud'> Aqui </a>
 
 Esse é um projeto de arrumação de dados usando Python.
 
