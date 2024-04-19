@@ -4,10 +4,13 @@ A <a href = 'https://www.loggi.com/conheca-a-loggi/'>Loggi</a> é uma empresa br
 
 Uma de suas diversas iniciativas, disponibiliza dados de algumas grandes cidades/regiões como Rio de Janeiro e Distrito Federal através desse <a href = 'https://github.com/loggi/loggibud'>link</a>.
 
-Os dados de entrega são referentes a um problema de 'last mile delivery', que é um problema comum da empresa. O objetivo é otimizar as entregas de hubs até o cliente final.
+Os dados de entrega são referentes a um problema de 'last mile delivery', que é um problema comum da empresa. O objetivo é otimizar as entregas de hubs 'próximos' até o cliente final.
 
-Esse é um projeto de arrumação de dados usando Python.
+Ao começar a trabalhar com os dados disponiblizados, uma dificuldade que logo se encontra é o <b>formato</b> dos dados. Eles estão em .json e para projetos de análise, não é o indicado.
 
-O objetivo era o de trabalhar com a manipulção de arquivos brutos no formato .json e converte-los para .csv de forma que fique mais fácil realizar análises futuras. 
+O objetivo desse projeto é então o de arrumação de dados usando Python, transformando os dados brutos (especificamente) do DF nesse <a hfre = 'https://raw.githubusercontent.com/drdhenrique/projeto_loggi/main/tidy_data.csv'> .csv </a>. Todo o script em Python se encontra no repositório. 
 
-É uma empresa brasileira de logística que utiliza tecnologia para otimizar a entrega de produtos, utilizando uma abordagem data-driven. A Loggi opera uma plataforma digital que conecta empresas e pessoas que precisam enviar pacotes a uma rede de entregadores autônomos, permitindo uma entrega mais rápida e eficiente. Eles são conhecidos por sua abordagem inovadora no setor de logística, utilizando algoritmos avançados para roteamento e acompanhamento de entregas em tempo real. Além disso, a Loggi também tem investido em soluções de última milha e logística urbana sustentável. A empresa tem crescido significativamente nos últimos anos e se tornou uma referência no setor de logística no Brasil.
+[!hippo](https://giphy.com/gifs/xI5HBoQZrEDavF19LF)
+
+
+
