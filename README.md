@@ -10,7 +10,7 @@ Ao começar a trabalhar com os dados disponiblizados, uma dificuldade que logo s
 
 O objetivo desse projeto é então o de arrumação de dados usando Python, transformando os dados brutos (especificamente) do DF nesse <a hfre = 'https://raw.githubusercontent.com/drdhenrique/projeto_loggi/main/tidy_data.csv'> .csv </a>. Todo o script em Python se encontra no repositório. 
 
-[!hippo](https://giphy.com/gifs/xI5HBoQZrEDavF19LF)
+![hippo](https://giphy.com/gifs/xI5HBoQZrEDavF19LF)
 
 
 
