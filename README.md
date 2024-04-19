@@ -1,8 +1,10 @@
 # Loggi - Projeto de Arrumação de dados
 
-A Loggi é uma empresa brasileira de logística que utiliza tecnologia para otimizar a entrega de produtos, utilizando uma abordagem data-driven.
+A <a href = 'https://www.loggi.com/conheca-a-loggi/'>Loggi</a> é uma empresa brasileira de logística que utiliza tecnologia para otimizar a entrega de produtos, utilizando uma abordagem data-driven.
 
-Uma de suas diversas iniciativas, disponibiliza dados de algumas grandes cidades/regiões como Rio de Janeiro e Distrito Federal <a href = 'https://github.com/loggi/loggibud'> Aqui </a>
+Uma de suas diversas iniciativas, disponibiliza dados de algumas grandes cidades/regiões como Rio de Janeiro e Distrito Federal através desse <a href = 'https://github.com/loggi/loggibud'>link</a>.
+
+Os dados de entrega são referentes a um problema de 'last mile delivery', que é um problema comum da empresa. O objetivo é otimizar as entregas de hubs até o cliente final.
 
 Esse é um projeto de arrumação de dados usando Python.
 
